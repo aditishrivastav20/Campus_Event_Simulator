@@ -1,0 +1,12 @@
+[
+    {
+        "event_id": "E001",
+        "event_name": "Cyber Security Workshop",
+        "capacity": 3
+    },
+    {
+        "event_id": "E003",
+        "event_name": "Workshop",
+        "capacity": 2
+    }
+]
